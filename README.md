@@ -1,7 +1,7 @@
 # Buralkiev Ruslan
 Strong Junior Frontend Developer from Bishkek, Kyrgyzstan 🇰🇬 <br/>
 
-[Email](ruslanburalkiev8@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ruslan-buralkiev-869000264/) / [GitHub](https://github.com/Ruslan321532) / [Telegram](https://t.me/atlantiS2k)
+[Email](mailto: ruslanburalkiev8@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ruslan-buralkiev-869000264/) / [GitHub](https://github.com/Ruslan321532) / [Telegram](https://t.me/atlantiS2k)
 
 Hello! I'm an experienced **Front-end developer with 1.5 years of commercial experience** in mobile development. My main technology stack includes **React.js**, **Next.js**, **TypeScript**, **JavaScript**, and **Tailwind CSS**. Additionally, I have experience with **Python** and **Flask** to create server-side applications.
 
@@ -46,47 +46,47 @@ Self-improvement: I always strive for self-development and improvement of my pro
 ## 👩🏼‍💻 Work experience
 
 ## **Frontend Developer** [ShowGo uz](https://showgo.uz/) _(August 2023 - now)_ <br>
-    Creating Platforms:
-    Developing and implementing platforms for payment processing and ticketing systems.
-    Utilizing Next.js, TypeScript, ReactJS, and JavaScript technologies.
-    Adapting platforms to the Uzbekistani market and user needs.
-    Improving UI Components:
-    Optimizing the user interface.
-    Creating new and enhancing existing UI components.
-    Designing and implementing interfaces to enhance platform usability.
-    Bug Fixing:
-    Identifying and rectifying code errors.
-    Diagnosing frontend and backend issues.
-    Ensuring platform stability through problem resolution.
-    Introducing New Features:
-    Researching and analyzing user needs.
-    Developing new functionalities and features for the platform.
-    Testing and implementing new features to enhance user experience and expand system functionality.
+- Creating Platforms:
+Developing and implementing platforms for payment processing and ticketing systems.
+Utilizing Next.js, TypeScript, ReactJS, and JavaScript technologies.
+Adapting platforms to the Uzbekistani market and user needs.
+Improving UI Components:
+Optimizing the user interface.
+Creating new and enhancing existing UI components.
+Designing and implementing interfaces to enhance platform usability.
+Bug Fixing:
+Identifying and rectifying code errors.
+Diagnosing frontend and backend issues.
+Ensuring platform stability through problem resolution.
+Introducing New Features:
+Researching and analyzing user needs.
+Developing new functionalities and features for the platform.
+Testing and implementing new features to enhance user experience and expand system functionality.
 
 
 - **_Technologies used:_** **Next js· Graphql· Git · JavaScript · Typescript · Redux/Redux-saga · nginx · Material-UI · Python · · Flask ·  React Js ·**.
 
 ## **Frontend Developer** [Kassir kg](https://kassir.kg/) _(Aprel 2023 - now)_ <br>
-    UI Components Development:
-    Developed and designed user interfaces, prioritizing both exceptional usability and advanced functionality for end-users.
-    Administrative Panel Mastery:
-    Engineered a robust administrative panel, implementing comprehensive functionalities for content management, user administration, and other pivotal aspects of the system.
-    Seamless Payment Systems Integration:
-    Executed seamless integration of diverse payment systems, ensuring secure and user-friendly transactions for both customers and clients.
-    Performance Optimization Maestro:
-    Led initiatives in code and process optimization, significantly enhancing system performance and reducing response times.
-    Testing and Debugging Virtuoso:
-    Actively engaged in testing and debugging processes, systematically identifying and rectifying errors to maintain exemplary product quality.
-    Collaborative Team Player:
-    Actively collaborated with cross-functional team members, contributing insights and experiences in meetings to align efforts towards common project objectives.
+- UI Components Development:
+Developed and designed user interfaces, prioritizing both exceptional usability and advanced functionality for end-users.
+Administrative Panel Mastery:
+Engineered a robust administrative panel, implementing comprehensive functionalities for content management, user administration, and other pivotal aspects of the system.
+Seamless Payment Systems Integration:
+Executed seamless integration of diverse payment systems, ensuring secure and user-friendly transactions for both customers and clients.
+Performance Optimization Maestro:
+Led initiatives in code and process optimization, significantly enhancing system performance and reducing response times.
+Testing and Debugging Virtuoso:
+Actively engaged in testing and debugging processes, systematically identifying and rectifying errors to maintain exemplary product quality.
+Collaborative Team Player:
+Actively collaborated with cross-functional team members, contributing insights and experiences in meetings to align efforts towards common project objectives.
 
 - **_Technologies used:_** **Next js· Graphql· Git · JavaScript · Typescript · Redux/Redux-saga · nginx · Material-UI · · React Js ·**.
 
 
 ## 📃 Certificates
 
-**Certified Frontend Developer** [Credential](https://tartip.kg/verify/EB230001414A0084000106596) _(Mar 2022)_ <br>
-**Certified Backend Developer** [Credential](https://tartip.kg/verify/EB230001414A0084000106596) _(Mar 2023)_ <br>
+**Certified Frontend Developer** [Credential](https://tartip.kg/verify/EB230004283A0084000347536) _(Mar 2022)_ <br>
+**Certified Backend Developer** [Credential](https://tartip.kg/verify/EB230020465A0084001661352) _(Mar 2023)_ <br>
 
 ## Languages
 
