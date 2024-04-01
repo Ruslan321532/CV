@@ -90,8 +90,8 @@ Actively collaborated with cross-functional team members, contributing insights 
 
 ## Languages
 
-🇺🇸 **English**:<br>
-🇷🇺 **Russian**:
+🇺🇸 **English**:A2<br>
+🇷🇺 **Russian**: C1
 <br><br>
 
 ## 👩🏼‍🎓 Education
