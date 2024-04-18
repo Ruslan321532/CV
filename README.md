@@ -29,7 +29,7 @@ Self-improvement: I always strive for self-development and improvement of my pro
 - Next Js
 - JavaScript
 - TypeScript
-- Python (Flask)
+- Python (Flask, Django)
 - HTML5/CSS3/SCSS
 - Tailwind/Material-UI/And-Design/Bootstrap
 - Shadcn/ui
@@ -64,7 +64,7 @@ Developing new functionalities and features for the platform.
 Testing and implementing new features to enhance user experience and expand system functionality.
 
 
-- **_Technologies used:_** **Next js· Graphql· Git · JavaScript · Typescript · Redux/Redux-saga · nginx · Material-UI · Python · · Flask ·  React Js ·**.
+- **_Technologies used:_** **Next js· Graphql· Git · JavaScript · Typescript · Redux/Redux-saga · nginx · Material-UI · Python ·  Flask ·  React Js ·**
 
 ## **Frontend Developer** [Kassir kg](https://kassir.kg/) _(Aprel 2023 - now)_ <br>
 - UI Components Development:
@@ -80,7 +80,7 @@ Actively engaged in testing and debugging processes, systematically identifying 
 Collaborative Team Player:
 Actively collaborated with cross-functional team members, contributing insights and experiences in meetings to align efforts towards common project objectives.
 
-- **_Technologies used:_** **Next js· Graphql· Git · JavaScript · Typescript · Redux/Redux-saga · nginx · Material-UI · · React Js ·**.
+- **_Technologies used:_** **Next js· Graphql· Git · JavaScript · Typescript · Redux/Redux-saga · nginx · Material-UI ·  React Js ·**
 
 
 ## 📃 Certificates
