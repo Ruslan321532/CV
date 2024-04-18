@@ -29,18 +29,18 @@ Self-improvement: I always strive for self-development and improvement of my pro
 - Next Js
 - JavaScript
 - TypeScript
-- Python (Flask, Django)
+- Python (Flask)
 - HTML5/CSS3/SCSS
-- Tailwind/Material-UI/And-Design/Bootstrap
-- Shadcn/ui
-- Clerk/nextjs
+- Tailwind/Material-UI/And-Design
+- ShadcnUI/AccertunyUI
+- Clerk/Nextjs
 - Object-Oriented Programming (OOP)
 - SOLID
 - Git
 - GraphQL (Apollo Client)
 - WebSocket
 - Firebase
-- Redux/Redux-thunk/Redux-Saga
+- Redux/Redux-thunk/RTK-Query
 - Nginx
 
 ## 👩🏼‍💻 Work experience
