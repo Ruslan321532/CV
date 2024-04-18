@@ -45,7 +45,7 @@ Self-improvement: I always strive for self-development and improvement of my pro
 
 ## 👩🏼‍💻 Work experience
 
-## **Frontend Developer** [ShowGo uz](https://showgo.uz/) _(August 2023 - now)_ <br>
+## **Full Stack Developer** [ShowGo uz](https://showgo.uz/) _(August 2023 - now)_ <br>
 - Creating Platforms:
 Developing and implementing platforms for payment processing and ticketing systems.
 Utilizing Next.js, TypeScript, ReactJS, and JavaScript technologies.
