@@ -1,7 +1,7 @@
 # Buralkiev Ruslan
 Strong Junior Full-Stack Developer from Bishkek, Kyrgyzstan 🇰🇬 <br/>
 
-[Email](mailto: ruslanburalkiev8@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ruslan-buralkiev-869000264/) / [GitHub](https://github.com/Ruslan321532) / [Telegram](https://t.me/atlantiS2k)
+[Email](mailto:ruslanburalkiev8@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ruslan-buralkiev-869000264/) / [GitHub](https://github.com/Ruslan321532) / [Telegram](https://t.me/atlantiS2k)
 
 Hello! I'm an experienced **Full-Stack Developer with 1.5 years of commercial experience** in mobile development. My main technology stack includes **React.js**, **Next.js**, **TypeScript**, **JavaScript**, and **Tailwind CSS**. Additionally, I have experience with **Python** and **Flask** to create server-side applications.
 
@@ -17,7 +17,7 @@ My responsibilities also include setting up servers, experience working with **C
 ## Other Skills
 
 Knowledge of Full Stack Development **(FSD)** and **Domain Driven Design (DDD)** approaches to efficiently develop and scale applications.
-Skills in configuring tools to keep code clean and readable, such as **ESLint**, **Prettier**, and **Husky**, to improve Git commit history and ensure standard coding.
+Skills in configuring tools to keep code clean and readable, such as **ESLint**, **Prettier**, **Husky**, and **GitHub Workflows**, to improve Git commit history and ensure standard coding.
 
 ## Continuous Learning
 
@@ -40,7 +40,6 @@ Self-improvement: I always strive for self-development and improvement of my pro
 - GraphQL (Apollo Client) - - (basic)
 - WebSocket
 - Webpack
-- Firebase
 - Redux/Redux-thunk/Redux-Saga
 - Nginx
 - CloudFire/Firebase
@@ -48,20 +47,16 @@ Self-improvement: I always strive for self-development and improvement of my pro
 - Framer-Motion
 - Feature-sliced-design **(FSD)**
 - PostgreSql/Prisma/JWT/Express(basic)
-
+- ApiDog/Postman
 ## ⚙️ Technologies for formatting code
 - Eslint
 - Husky
 - Prettier
-
-
-
-
-
+- GitHub Workflows
 
 ## 👩🏼‍💻 Work experience
 
-## **Full Stack Developer** [ShowGo uz](https://showgo.uz/) _(August 2023 - now)_ <br>
+### **Full Stack Developer** [ShowGo uz](https://showgo.uz/) _(August 2023 - now)_ <br>
 - Creating Platforms:
 Developing and implementing platforms for payment processing and ticketing systems.
 Utilizing Next.js, TypeScript, ReactJS, and JavaScript technologies.
@@ -79,10 +74,9 @@ Researching and analyzing user needs.
 Developing new functionalities and features for the platform.
 Testing and implementing new features to enhance user experience and expand system functionality.
 
+- **_Technologies used:_** **Next js· Graphql· Git · JavaScript · Typescript · Redux/Redux-saga · nginx · Material-UI · Python ·  Flask ·  React Js · PostgreSql · JWT · OOP · GitHub Workflows**
 
-- **_Technologies used:_** **Next js· Graphql· Git · JavaScript · Typescript · Redux/Redux-saga · nginx · Material-UI · Python ·  Flask ·  React Js ·**
-
-## **Frontend Developer** [Kassir kg](https://kassir.kg/) _(Aprel 2023 - now)_ <br>
+### **Frontend Developer** [Kassir kg](https://kassir.kg/) _(Aprel 2023 - now)_ <br>
 - UI Components Development:
 Developed and designed user interfaces, prioritizing both exceptional usability and advanced functionality for end-users.
 Administrative Panel Mastery:
@@ -97,7 +91,6 @@ Collaborative Team Player:
 Actively collaborated with cross-functional team members, contributing insights and experiences in meetings to align efforts towards common project objectives.
 
 - **_Technologies used:_** **Next js· Graphql· Git · JavaScript · Typescript · Redux/Redux-saga · nginx · Material-UI ·  React Js ·**
-
 
 ## 📃 Certificates
 
