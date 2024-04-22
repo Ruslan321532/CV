@@ -31,17 +31,33 @@ Self-improvement: I always strive for self-development and improvement of my pro
 - TypeScript
 - Python (Flask)
 - HTML5/CSS3/SCSS
-- Tailwind/Material-UI/And-Design
+- Tailwind/Material-UI/And-Design/Bootstrap
 - ShadcnUI/AccertunyUI
-- Clerk/Nextjs
+- Clerk/nextjs
 - Object-Oriented Programming (OOP)
 - SOLID
 - Git
-- GraphQL (Apollo Client)
+- GraphQL (Apollo Client) - - (basic)
 - WebSocket
+- Webpack
 - Firebase
-- Redux/Redux-thunk/RTK-Query
+- Redux/Redux-thunk/Redux-Saga
 - Nginx
+- CloudFire/Firebase
+- RTK-query
+- Framer-Motion
+- Feature-sliced-design **(FSD)**
+- PostgreSql/Prisma/JWT/Express(basic)
+
+## ⚙️ Technologies for formatting code
+- Eslint
+- Husky
+- Prettier
+
+
+
+
+
 
 ## 👩🏼‍💻 Work experience
 
