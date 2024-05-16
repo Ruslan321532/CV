@@ -1,7 +1,7 @@
 # Buralkiev Ruslan
 Strong Junior Full-Stack Developer from Bishkek, Kyrgyzstan 🇰🇬 <br/>
 
-[Email](mailto:ruslanburalkiev8@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ruslan-buralkiev-869000264/) / [GitHub](https://github.com/Ruslan321532) / [Telegram](https://t.me/atlantiS2k)
+[Email](mailto:ruslanburalkiev8@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ruslan-buralkiev-869000264/) / [GitHub](https://github.com/atlantiS2k) / [Telegram](https://t.me/atlantiS2k)
 
 Hello! I'm an experienced **Full-Stack Developer with 1.5 years of commercial experience** in mobile development. My main technology stack includes **React.js**, **Next.js**, **TypeScript**, **JavaScript**, and **Tailwind CSS**. Additionally, I have experience with **Python** and **Flask** to create server-side applications.
 
