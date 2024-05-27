@@ -57,38 +57,31 @@ Self-improvement: I always strive for self-development and improvement of my pro
 ## 👩🏼‍💻 Work experience
 
 ### **Full Stack Developer** [ShowGo uz](https://showgo.uz/) _(August 2023 - now)_ <br>
-- Creating Platforms:
-Developing and implementing platforms for payment processing and ticketing systems.
-Utilizing Next.js, TypeScript, ReactJS, and JavaScript technologies.
-Adapting platforms to the Uzbekistani market and user needs.
-Improving UI Components:
-Optimizing the user interface.
-Creating new and enhancing existing UI components.
-Designing and implementing interfaces to enhance platform usability.
-Bug Fixing:
-Identifying and rectifying code errors.
-Diagnosing frontend and backend issues.
-Ensuring platform stability through problem resolution.
-Introducing New Features:
-Researching and analyzing user needs.
-Developing new functionalities and features for the platform.
-Testing and implementing new features to enhance user experience and expand system functionality.
+- User Interface Support
+- Writing Endpoints for the admin panel and client part
+- Optimizing database queries
+- Raising and setting up Nginx server, backend API, Frontend parts
+- SEO setup
+- I use the latest front-end technologies in combination with progressive development methods to create efficient and scalable web applications, and also actively use tools to automate processes and improve the quality of code on the backend.
+- Setting up CI/CD for instant updates
+- Writing new functionality on the backend and connecting it to the frontend/admin panel
+- Implemented functionality for exporting reports to CSV and XLSX formats with various filters
+- Developed order and report pages, including filtering by statuses, dates, and search functionalities
+- Implemented push notifications to Telegram bot for managers, including OTP codes for authorization
+- Independently developed sales statistics for cashiers and introduced new roles
+- participated in the development the FRAME gateway for integration with partner systems and added partner statistics
 
 - **_Technologies used:_** **Next js· Graphql· Git · JavaScript · Typescript · Redux/Redux-saga · nginx · Material-UI · Python ·  Flask ·  React Js · PostgreSql · JWT · OOP · GitHub Workflows**
 
 ### **Frontend Developer** [Kassir kg](https://kassir.kg/) _(Aprel 2023 - now)_ <br>
-- UI Components Development:
-Developed and designed user interfaces, prioritizing both exceptional usability and advanced functionality for end-users.
-Administrative Panel Mastery:
-Engineered a robust administrative panel, implementing comprehensive functionalities for content management, user administration, and other pivotal aspects of the system.
-Seamless Payment Systems Integration:
-Executed seamless integration of diverse payment systems, ensuring secure and user-friendly transactions for both customers and clients.
-Performance Optimization Maestro:
-Led initiatives in code and process optimization, significantly enhancing system performance and reducing response times.
-Testing and Debugging Virtuoso:
-Actively engaged in testing and debugging processes, systematically identifying and rectifying errors to maintain exemplary product quality.
-Collaborative Team Player:
-Actively collaborated with cross-functional team members, contributing insights and experiences in meetings to align efforts towards common project objectives.
+- Code support
+- Code Refactoring
+- Writing Your Custom Components for the UI Interface
+- Also writing Other projects and supporting them
+- Project localization
+- Adding small features and solving bugs
+- Creation of event platforms
+- Active work with the backend and adding new functionality
 
 - **_Technologies used:_** **Next js· Graphql· Git · JavaScript · Typescript · Redux/Redux-saga · nginx · Material-UI ·  React Js ·**
 
